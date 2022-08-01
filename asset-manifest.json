@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ce7cb6a1.css",
-    "main.js": "/static/js/main.070c2b2f.js",
+    "main.js": "/static/js/main.373be56d.js",
     "static/media/herosection.mp4": "/static/media/herosection.99a46e03d3cf8eafe4a9.mp4",
     "static/media/signup.mp4": "/static/media/signup.2702009508c0b07ca7f7.mp4",
     "static/media/deathly-hallows.png": "/static/media/deathly-hallows.e4f69476e086ab9e0e6f.png",
@@ -50,10 +50,10 @@
     "static/media/book-1.jpg": "/static/media/book-1.073c5f413b5da4189ac7.jpg",
     "index.html": "/index.html",
     "main.ce7cb6a1.css.map": "/static/css/main.ce7cb6a1.css.map",
-    "main.070c2b2f.js.map": "/static/js/main.070c2b2f.js.map"
+    "main.373be56d.js.map": "/static/js/main.373be56d.js.map"
   },
   "entrypoints": [
     "static/css/main.ce7cb6a1.css",
-    "static/js/main.070c2b2f.js"
+    "static/js/main.373be56d.js"
   ]
 }
