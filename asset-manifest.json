@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/the-one-app/static/css/main.3a0e17e0.css",
+    "main.css": "/the-one-app/static/css/main.7fb7aa37.css",
     "main.js": "/the-one-app/static/js/main.83beb977.js",
     "static/media/herosection.mp4": "/the-one-app/static/media/herosection.99a46e03d3cf8eafe4a9.mp4",
     "static/media/signup.mp4": "/the-one-app/static/media/signup.2702009508c0b07ca7f7.mp4",
@@ -49,11 +49,11 @@
     "static/media/book-4.jpg": "/the-one-app/static/media/book-4.0ff74a9a2c22650df9d2.jpg",
     "static/media/book-1.jpg": "/the-one-app/static/media/book-1.073c5f413b5da4189ac7.jpg",
     "index.html": "/the-one-app/index.html",
-    "main.3a0e17e0.css.map": "/the-one-app/static/css/main.3a0e17e0.css.map",
+    "main.7fb7aa37.css.map": "/the-one-app/static/css/main.7fb7aa37.css.map",
     "main.83beb977.js.map": "/the-one-app/static/js/main.83beb977.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a0e17e0.css",
+    "static/css/main.7fb7aa37.css",
     "static/js/main.83beb977.js"
   ]
 }
