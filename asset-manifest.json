@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/the-one-app/static/css/main.3a0e17e0.css",
-    "main.js": "/the-one-app/static/js/main.5d94a1a2.js",
+    "main.js": "/the-one-app/static/js/main.9c267496.js",
     "static/media/herosection.mp4": "/the-one-app/static/media/herosection.99a46e03d3cf8eafe4a9.mp4",
     "static/media/signup.mp4": "/the-one-app/static/media/signup.2702009508c0b07ca7f7.mp4",
     "static/media/deathly-hallows.png": "/the-one-app/static/media/deathly-hallows.e4f69476e086ab9e0e6f.png",
@@ -50,10 +50,10 @@
     "static/media/book-1.jpg": "/the-one-app/static/media/book-1.073c5f413b5da4189ac7.jpg",
     "index.html": "/the-one-app/index.html",
     "main.3a0e17e0.css.map": "/the-one-app/static/css/main.3a0e17e0.css.map",
-    "main.5d94a1a2.js.map": "/the-one-app/static/js/main.5d94a1a2.js.map"
+    "main.9c267496.js.map": "/the-one-app/static/js/main.9c267496.js.map"
   },
   "entrypoints": [
     "static/css/main.3a0e17e0.css",
-    "static/js/main.5d94a1a2.js"
+    "static/js/main.9c267496.js"
   ]
 }
